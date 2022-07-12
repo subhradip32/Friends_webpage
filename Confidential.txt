@@ -1,0 +1,11 @@
+SuperUser=[
+    username = "subhradip32",
+    Email address: subhradipmajumder309@gmail.com
+    password = ratul2005
+]
+
+workflow = [
+    1. authentications
+    2. Home
+        a. quiz 
+]
