@@ -25,9 +25,9 @@ SECRET_KEY = 'django-insecure-_q#49780wg*+0l#8q@d)6lk=@f9&%efgbkrp4(jvb1whl451$f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['know-my-friends.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
-
+STATIC_ROOT = BASE / 'staticfiles'
 # Application definition
 
 INSTALLED_APPS = [
